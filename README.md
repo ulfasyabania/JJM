@@ -139,7 +139,7 @@ fig.show()
 
 ---
 
-## 9. ### **Kesimpulan dan Rekomendasi untuk HRD Jaya Jaya Maju**  
+## 9. **Kesimpulan dan Rekomendasi untuk HRD Jaya Jaya Maju**  
 Berdasarkan analisis SHAP, kita dapat mengidentifikasi faktor-faktor yang paling berpengaruh terhadap prediksi karyawan keluar (**attrition**). Model Bayesian Optimization yang digunakan menunjukkan bahwa **MonthlyIncome, YearsAtCompany, dan YearsSinceLastPromotion** adalah fitur utama yang mempengaruhi keputusan resign.
 
 ---
